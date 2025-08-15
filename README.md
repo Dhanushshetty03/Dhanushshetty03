@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=1800&color=00FFFF&center=true&vCenter=true&width=980&lines=Welcome+to+my+GitHub;I'm+Dhanush+Shetty;Observe+%7C+Learn+%7C+Act" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=1800&color=000000&center=true&vCenter=true&width=980&lines=Welcome+to+my+GitHub;I'm+Dhanush+Shetty;Observe+%7C+Learn+%7C+Act" alt="Animated Header" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engineer-3rd%20Year-0?style=for-the-badge&labelColor=000&color=00ffff" />
-  <img src="https://img.shields.io/badge/NMAMIT-Student-0?style=for-the-badge&labelColor=000&color=f7b731" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20UI%2FUX-0?style=for-the-badge&labelColor=000&color=00ffab" />
+  <img src="https://img.shields.io/badge/Engineer-3rd%20Year-0?style=for-the-badge&labelColor=000&color=000000" />
+  <img src="https://img.shields.io/badge/NMAMIT-Student-0?style=for-the-badge&labelColor=000&color=000000" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20UI%2FUX-0?style=for-the-badge&labelColor=000&color=000000" />
 </p>
 
 ---
@@ -37,8 +37,8 @@
 
 ## 📊 Quick Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanushshetty03&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushshetty03&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanushshetty03&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushshetty03&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
