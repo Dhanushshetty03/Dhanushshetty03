@@ -11,7 +11,7 @@
 ---
 
 ## ✨ About Me
-- 🧑‍🎓 **Dhanush G Shetty**
+- 🧑‍🎓 **Dhanush Shetty**
 - 🏫 **3rd Year Engineering Student** @ **NMAM Institute of Technology**
 - 💡 I love building things that are **useful, simple, and fast**.
 - 🎯 **Motto:** *Observe · Learn · Act* 🚀
