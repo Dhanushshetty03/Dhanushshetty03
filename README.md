@@ -1,27 +1,55 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=1800&color=ECECEC,F7B731,00FFFF,FFD700,FFFFFF,A5A5A5,00FFAB,AAA9AD,8A8A8A&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile;I+Am+Dhanush+G+Shetty;Observe+++|+++Learn+++|+++Act" alt="Metallic Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=1800&color=00FFFF&center=true&vCenter=true&width=980&lines=Welcome+to+my+GitHub;I'm+Dhanush+Shetty;Observe+%7C+Learn+%7C+Act" alt="Animated Header" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineer-3rd%20Year-0?style=for-the-badge&labelColor=000&color=00ffff" />
+  <img src="https://img.shields.io/badge/NMAMIT-Student-0?style=for-the-badge&labelColor=000&color=f7b731" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20UI%2FUX-0?style=for-the-badge&labelColor=000&color=00ffab" />
 </p>
 
 ---
 
-<div align="center" style="margin: 32px 0;">
-  <table>
-    <tr>
-      <td>
-        <h2 style="color:#00FFFF;font-family:Orbitron;">About Me</h2>
-        <ul>
-          <li>🧑‍🎓 <b>Dhanush G Shetty</b></li>
-          <li>🏫 <b>3rd Year Engineering Student</b> @ NMAM Institute of Technology</li>
-          <li>💻 <b>Programming Languages:</b> Python · Java · C · React · JavaScript</li>
-          <li>📧 <b>Email:</b> <a href="mailto:dhanushgshetty666@gmail.com">dhanushgshetty666@gmail.com</a></li>
-          <li>🌐 <b>Connect:</b> <a href="https://github.com/DZ1shetty" target="_blank">GitHub</a> | <a href="https://instagram.com/dhanu_shetty1105" target="_blank">Instagram</a></li>
-          <li>🌊 <b>Motto:</b> <i>Observe, Learn, Act 🚀</i></li>
-          <li>🎯 <b>Interests:</b> AI, Automation, UI/UX, Open Source, Learning New Tech</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+## ✨ About Me
+- 🧑‍🎓 **Dhanush G Shetty**
+- 🏫 **3rd Year Engineering Student** @ **NMAM Institute of Technology**
+- 💡 I love building things that are **useful, simple, and fast**.
+- 🎯 **Motto:** *Observe · Learn · Act* 🚀
+
+### 🛠️ Tech I Use
+`Python` · `Java` · `C` · `JavaScript` · `React` · `Git` · `Linux`
+
+### 📫 Reach Me
+- 📧 **Email:** [dhanushetty655@gmail.com](mailto:dhanushetty655@gmail.com)
+- 🌐 **GitHub:** [@Dhanushshetty03](https://github.com/Dhanushshetty03)
+- 📷 **Instagram:** [@_dhanush_shetty_03](https://instagram.com/_dhanush_shetty_03)
 
 ---
 
+## 📌 Featured
+- 🔧 **Automation scripts** – everyday workflow boosters  
+- 🤖 **AI mini-projects** – experiments with ML/LLMs  
+- 🎨 **UI/UX tinkering** – quick prototypes and components
+
+> *Want to collaborate? Open an issue on any repo or drop me an email.*
+
+---
+
+## 📊 Quick Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanushshetty03&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushshetty03&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ✅ Currently
+- 📘 Strengthening **DSA** and **system design**
+- 🧪 Building small projects in **Python/React**
+- 🌱 Exploring **AI + automation** for daily tasks
+
+---
+
+<p align="center">
+  <sub>Made with focus, caffeine, and curiosity.</sub>
+</p>
